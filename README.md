@@ -32,3 +32,6 @@ the balance in favor of fair use."
 
 ## 🙏依存
 <a href="https://github.com/xxtea/xxtea-nodejs">xxtea-node</a>
+
+## ライセンス
+このプロジェクトのライセンスは MIT License です。 詳細については[ライセンスファイル](LICENSE)を見てください。
